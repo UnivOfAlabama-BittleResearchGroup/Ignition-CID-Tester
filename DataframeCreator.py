@@ -81,5 +81,7 @@ def parser_df(filepath):
 
                 dataframe_creator(pathway, title, dirpath)
 
+
+# Insert file path here
 # file = "C:\\Users\\cadea\\OneDrive\\Desktop\\CID Data Processing\\10bar_isooctane_0p5_phi\\10bar_isooctane_0p5_phi"
 # parser_df(file)
